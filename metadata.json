@@ -1,0 +1,6 @@
+{
+  "name": "Super Guru Apps - Supervisi Akademik SMA Plus UQ Al-Mustofa",
+  "description": "Aplikasi Supervisi Akademik Guru komprehensif untuk SMA Plus UQ Al-Mustofa mencakup telaah kurikulum, modul ajar, pra-observasi, observasi kelas, asesmen, dan tindak lanjut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
